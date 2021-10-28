@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajiitkgp
 - 👀 I’m interested in competetive programming and algorithms.
-- 🌱 I’m currently learning algorithms, AI and Data Science.
+- 🌱 I’m currently learning algorithms and DS.
 - 📫 Reach me through my email id.
 
 <!---
