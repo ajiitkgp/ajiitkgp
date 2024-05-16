@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajiitkgp
 - 👀 I’m interested in competetive programming and algorithms.
-- 🌱 I’m currently learning algorithms and DS.
-- 📫 Reach me through my email id.
+- 📫 Reach me through my email id: analjyoti176@kgpian.iitkgp.ac.in.
 
 <!---
 ajiitkgp/ajiitkgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
